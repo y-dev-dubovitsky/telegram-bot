@@ -1,0 +1,75 @@
+# Локальные файлы конфигурации
+.env
+.env.local
+.env.*.local
+
+# Папка node_modules
+node_modules/
+
+# Файлы, созданные npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Файлы, созданные Jest
+coverage/
+
+# Файлы, созданные IDE и текстовыми редакторами
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Папка для сборки
+dist/
+build/
+
+# Файлы, созданные тестами
+*.test.js
+*.spec.js
+
+# Файлы, созданные линтерами
+.eslintcache
+
+# Файлы, созданные TypeScript
+*.tsbuildinfo
+
+# Файлы, созданные Babel
+babel-cache.json
+
+# Файлы, созданные Webpack
+webpack-stats.json
+
+# Файлы, созданные Docker
+Dockerfile
+docker-compose.yml
+
+# Файлы, созданные CI/CD
+.travis.yml
+circle.yml
+
+# Файлы, созданные IDEA
+*.iml
+*.ipr
+*.iws
+
+# Файлы, созданные VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Файлы, созданные JetBrains IDE
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLinters/eslint.xml
+
+# Файлы, созданные Prettier
+.prettierignore
