@@ -1,0 +1,6 @@
+[submodule "ai-question"]
+	path = ai-question
+	url = ./ai-question
+[submodule "bot-core"]
+	path = bot-core
+	url = ./bot-core
