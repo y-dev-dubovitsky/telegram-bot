@@ -4,3 +4,6 @@
 [submodule "bot-core"]
 	path = bot-core
 	url = ./bot-core
+[submodule "translate-service"]
+	path = translate-service
+	url = ./translate-service/
